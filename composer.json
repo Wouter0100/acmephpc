@@ -27,7 +27,7 @@
   "include-path": ["src/"],
   "autoload": {
     "psr-0": {
-      "Octopuce\Acme": "src/"
+      "octopuce/acmephpc": "src/"
     }
   }
 }
